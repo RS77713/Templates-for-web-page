@@ -1,0 +1,24 @@
+#footer {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: grey;
+   color: white;
+   text-align: center;
+ }
+.gallery {
+  margin: 10px 50px;
+}
+.gallery img {
+  transition: 1s;
+  padding: 15px;
+  width: 200px;
+}
+.gallery img:hover {
+  filter:grayscale(102%);
+  transform: scale(1.1);
+}
+@media screen and (max-width: 500px){
+  
+}

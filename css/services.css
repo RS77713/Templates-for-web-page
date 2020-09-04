@@ -1,0 +1,12 @@
+
+.pakalpojumi {
+  padding: 40px;
+}
+div.inset {
+  border-style: inset;
+  padding: 40px;
+  width: 50%;
+}
+@media screen and (max-width: 500px) {
+
+}
